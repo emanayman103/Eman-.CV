@@ -1,0 +1,22 @@
+
+header{
+    background-color: rgb(29, 143, 143);
+   text-align: center;
+ 
+}
+header img{
+    height: 100vh;
+    border-radius: 50%;
+    width: 450px;
+}
+.info{
+    margin-right: 15px;
+    text-align: center;
+    line-height: 50px;
+}
+hr{
+
+    border: solid 3px;
+    width: 100px orange;
+    margin-bottom: 30px;
+}
